@@ -1,5 +1,4 @@
 # Spanish Signs WE-Module for Cities: Skylines II  
-## SERIE B PACK
 
 Hola and Hello!  
 This is a **Write Everywhere module** that brings a collection of **Spanish road and traffic signs** into your game.  
@@ -7,48 +6,40 @@ This is a **Write Everywhere module** that brings a collection of **Spanish road
 ---
 
 ##  Features
--  **Spanish traffic and road signs** with realistic layouts and colors  
-- Uses the **Traffic Type Spain** font (must be installed separately)  
-- Includes **over 62 templates/layouts** for Write Everywhere  
-- Around **216 sign images** available  
-
-###  Road Sign Types (currently available)
-- **Traffic Signs** – Warning, prohibition, mandatory, and more  
-- **Autovia / Highway Signs** – start, end, tunnel, and bridge markings, over Lanes next to Lanes 
-- **Miscellaneous Signs and Symbols** – Icons and extra templates for flexible use  
-
----
-
-###  Traffic Signs
-- Many signs share common prefabs for better organization and less clutter  
-- Configurable variables for:
-  - Distances  
-  - Height/width restrictions  
-  - Arrows and directions  
+- **Over 63 templates/layouts** for Write Everywhere  
+- Around **217 sign images** available  
+- Multiple Types:
+    - **Traffic Signs** – Warning, prohibition, mandatory, and more  
+    - **Autovia / Highway Signs** – start, end, tunnel, and bridge markings, over Lanes next to Lanes 
+    - **Conventional** Road Signs - In City Directions Signs
+    - **Miscellaneous Signs and Symbols** – Icons and extra templates for flexible use  
 
 ---
 
 ##  How to Use
 
-1. Install all required mods listed below.  
-2. Place a road structure that matches your sign type.  
-3. Open the **Write Everywhere** menu (`CTRL + Shift + W`).  
-4. Click the structure you want to edit.  
-5. Click **Import layout from XML at root...**  
-6. Choose the puzzle-piece icon (*Templates from mods*).  
-7. Search for the **Spanish Signs Mod**.  
-8. Select a layout and customize it to your liking.  
+1. Install the **Requirements** needed for this mod.
+3. Place a matching road structure in-game.  
+4. Open **Write Everywhere** Selector (Default: `CTRL + Shift + W`).
+4. Click on the structure you wanna edit.  
+5. Click on the Folder Icon(*Import/load...*)
+5. Click on `Import layout from xml at root...`
+6. Click on the puzzle-piece(*Templates from mods*)
+7. Click on "MaestroSpanishSigns"
+8. Choose the desired template and customize it.  
 
 ### Customize and Save Signs
 - Select the root object → **Save & Export as XML**  
 - Templates can be reused across cities and saves.  
 - All templates are stored locally so no re-import required.  
 
+[WriteEverywhere Video Tutorial by **chaosfun**](https://youtu.be/3tMR103ZeXA?si=8jKUmQMBtP6YZcpj) is also a good help.
+
 ---
 
 ##  Requirements
 - [Write Everywhere](https://mods.paradoxplaza.com/mods/92908/Windows) – required  
-- [Highway Sign Structures](https://mods.paradoxplaza.com/mods/113261/Windows) – optional but recommended  
+- [Highway Sign Structures](https://mods.paradoxplaza.com/mods/127499/Any) – optional but recommended  
 
 ---
 
@@ -62,7 +53,7 @@ For copyright reasons, the font is **not included** and must be installed manual
 #### How to install the font
 1. Download the **Traffic Type Spain** font file (`.ttf`).  
 2. Go to your local Cities: Skylines II mods folder:  
-   `\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts`  
+   `\Cities Skylines II\ModsData\.Klyte45Mods\WriteEverywhere\fonts`  
    *(if the `fonts` folder doesn’t exist, create it manually)*  
 3. Place the `.ttf` file inside this folder.  
 4. Start the game and load your city.  
@@ -77,27 +68,16 @@ For copyright reasons, the font is **not included** and must be installed manual
 
 ---
 
-##  Check out my other Signs/Overrider Modules
-### Serie A
-- [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)
-- [German OVerrider](https://mods.paradoxplaza.com/mods/123745/Windows)
-- [Dutch Signs](https://mods.paradoxplaza.com/mods/121223/Windows)
-- [Dutch Overrider]()
-- [Italian Signs](https://mods.paradoxplaza.com/mods/121615/Windows)
-- [Italian Overrider](https://mods.paradoxplaza.com/mods/124269/Windows)
-
-### Serie B
-- [Swiss Signs](https://mods.paradoxplaza.com/mods/124288/Windows)
-- [Swiss Overrider](https://mods.paradoxplaza.com/mods/123563/Windows)
-- [French Signs](https://mods.paradoxplaza.com/mods/124289/Windows)
-- [French Overrider](https://mods.paradoxplaza.com/mods/123893/Windows)
-- [Spanish Overrider]()
+## Check out the corrosponding Vanilla Sign Overrider or other Packs
+- [Spanish Vanilla Overrider](https://mods.paradoxplaza.com/mods/127510/Windows)
+- [Other Packs](https://mods.paradoxplaza.com/authors/UnMaestro)
 
 ---
 
 ##  Special Thanks
 - To **Klyte45** for the WriteEverywhere mod and templates.  
 - To **lolok** for the Highway Sign Structures.  
+- chaosfun for his WriteEverywhere Video Tutorials
 
 ---
 
